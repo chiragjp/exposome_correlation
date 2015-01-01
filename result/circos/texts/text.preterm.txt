@@ -1,0 +1,1 @@
+phenols 0 1 Urinary_Bisphenol_A validated=1

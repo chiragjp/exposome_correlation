@@ -1,0 +1,4 @@
+volatile_compounds 13 14 volatile_compounds 31 32 corr=0.055174
+volatile_compounds 21 22 volatile_compounds 31 32 corr=0.001971
+volatile_compounds 24 25 volatile_compounds 31 32 corr=0.215365
+volatile_compounds 19 20 volatile_compounds 31 32 corr=0.079415

@@ -1,0 +1,76 @@
+"tab_name","tab_desc","series","module","var","var_desc","tab_desc_ewas","analyzable","var_desc_ewas","binary_ref_group","var_desc_ewas_sub","comment_var","version_date","is_comment","is_weight","is_questionnaire","is_ecological","is_binary","is_ordinal"
+"food_consumption_d","Food Consumption","2005-2006","Questionnaire","DR1BWATR","Total bottled water drank yesterday (gm)",NULL,1,"food component recall",NULL,NULL,NULL,NULL,NULL,NULL,1,0,0,0
+"food_consumption_c","Food Consumption","2003-2004","Questionnaire","DR1CWATR","Plain carbonated water (gm)",NULL,1,"food component recall",NULL,NULL,NULL,NULL,NULL,NULL,1,0,0,0
+"food_consumption_b","Food Consumption","2001-2002","Questionnaire","DR1TACAR","Alpha-carotene (mcg)",NULL,1,"food component recall",NULL,NULL,NULL,NULL,NULL,NULL,1,0,0,0
+"food_consumption_d","Food Consumption","2005-2006","Questionnaire","DR1TALCO","Alcohol (gm)",NULL,1,"food component recall",NULL,NULL,NULL,NULL,NULL,NULL,1,0,0,0
+"food_consumption_c","Food Consumption","2003-2004","Questionnaire","DR1TATOA","Added alpha-tocopherol (Vitamin E) (mg)",NULL,1,"food component recall",NULL,NULL,NULL,NULL,NULL,NULL,1,0,0,0
+"food_consumption_b","Food Consumption","2001-2002","Questionnaire","DR1TATOC","Vitamin E as alpha-tocopherol (mg)",NULL,1,"food component recall",NULL,NULL,NULL,NULL,NULL,NULL,1,0,0,0
+"food_consumption_c","Food Consumption","2003-2004","Questionnaire","DR1TB12A","Added vitamin B12 (mcg)",NULL,1,"food component recall",NULL,NULL,NULL,NULL,NULL,NULL,1,0,0,0
+"food_consumption_b","Food Consumption","2001-2002","Questionnaire","DR1TBCAR","Beta-carotene (mcg)",NULL,1,"food component recall",NULL,NULL,NULL,NULL,NULL,NULL,1,0,0,0
+"food_consumption_a","Food Consumption","1999-2000","Questionnaire","DR1TCAFF","Caffeine (mg)",NULL,1,"food component recall",NULL,NULL,NULL,NULL,NULL,NULL,1,0,0,0
+"food_consumption_b","Food Consumption","2001-2002","Questionnaire","DR1TCALC","Calcium (mg)",NULL,1,"food component recall",NULL,NULL,NULL,NULL,NULL,NULL,1,0,0,0
+"food_consumption_b","Food Consumption","2001-2002","Questionnaire","DR1TCARB","Carbohydrate (gm)",NULL,1,"food component recall",NULL,NULL,NULL,NULL,NULL,NULL,1,0,0,0
+"food_consumption_a","Food Consumption","1999-2000","Questionnaire","DR1TCARO","Carotene",NULL,1,"food component recall",NULL,NULL,NULL,NULL,NULL,NULL,1,0,0,0
+"food_consumption_d","Food Consumption","2005-2006","Questionnaire","DR1TCHL","Total choline (mg)",NULL,1,"food component recall",NULL,NULL,NULL,NULL,NULL,NULL,1,0,0,0
+"food_consumption_d","Food Consumption","2005-2006","Questionnaire","DR1TCHOL","Cholesterol (mg)",NULL,1,"food component recall",NULL,NULL,NULL,NULL,NULL,NULL,1,0,0,0
+"food_consumption_a","Food Consumption","1999-2000","Questionnaire","DR1TCOPP","Copper (mg)",NULL,1,"food component recall",NULL,NULL,NULL,NULL,NULL,NULL,1,0,0,0
+"food_consumption_b","Food Consumption","2001-2002","Questionnaire","DR1TCRYP","Beta-cryptoxanthin (mcg)",NULL,1,"food component recall",NULL,NULL,NULL,NULL,NULL,NULL,1,0,0,0
+"food_consumption_c","Food Consumption","2003-2004","Questionnaire","DR1TFA","Folic acid (mcg)",NULL,1,"food component recall",NULL,NULL,NULL,NULL,NULL,NULL,1,0,0,0
+"food_consumption_c","Food Consumption","2003-2004","Questionnaire","DR1TFDFE","Folate, DFE (mcg)",NULL,1,"food component recall",NULL,NULL,NULL,NULL,NULL,NULL,1,0,0,0
+"food_consumption_d","Food Consumption","2005-2006","Questionnaire","DR1TFF","Food folate (mcg)",NULL,1,"food component recall",NULL,NULL,NULL,NULL,NULL,NULL,1,0,0,0
+"food_consumption_b","Food Consumption","2001-2002","Questionnaire","DR1TFIBE","Dietary fiber (gm)",NULL,1,"food component recall",NULL,NULL,NULL,NULL,NULL,NULL,1,0,0,0
+"food_consumption_c","Food Consumption","2003-2004","Questionnaire","DR1TFOLA","Folate (mcg)",NULL,1,"food component recall",NULL,NULL,NULL,NULL,NULL,NULL,1,0,0,0
+"food_consumption_b","Food Consumption","2001-2002","Questionnaire","DR1TIRON","Iron (mg)",NULL,1,"food component recall",NULL,NULL,NULL,NULL,NULL,NULL,1,0,0,0
+"food_consumption_a","Food Consumption","1999-2000","Questionnaire","DR1TKCAL","Energy (kcal)",NULL,1,"food component recall",NULL,NULL,NULL,NULL,NULL,NULL,1,0,0,0
+"food_consumption_b","Food Consumption","2001-2002","Questionnaire","DR1TLYCO","Lycopene (mcg)",NULL,1,"food component recall",NULL,NULL,NULL,NULL,NULL,NULL,1,0,0,0
+"food_consumption_d","Food Consumption","2005-2006","Questionnaire","DR1TLZ","Lutein + zeaxanthin (mcg)",NULL,1,"food component recall",NULL,NULL,NULL,NULL,NULL,NULL,1,0,0,0
+"food_consumption_a","Food Consumption","1999-2000","Questionnaire","DR1TM161","MFA 16:1 (Hexadecenoic) (gm)",NULL,1,"food component recall",NULL,NULL,NULL,NULL,NULL,NULL,1,0,0,0
+"food_consumption_c","Food Consumption","2003-2004","Questionnaire","DR1TM181","MFA 18:1 (Octadecenoic) (gm)",NULL,1,"food component recall",NULL,NULL,NULL,NULL,NULL,NULL,1,0,0,0
+"food_consumption_d","Food Consumption","2005-2006","Questionnaire","DR1TM201","MFA 20:1 (Eicosenoic) (gm)",NULL,1,"food component recall",NULL,NULL,NULL,NULL,NULL,NULL,1,0,0,0
+"food_consumption_d","Food Consumption","2005-2006","Questionnaire","DR1TM221","MFA 22:1 (Docosenoic) (gm)",NULL,1,"food component recall",NULL,NULL,NULL,NULL,NULL,NULL,1,0,0,0
+"food_consumption_b","Food Consumption","2001-2002","Questionnaire","DR1TMAGN","Magnesium (mg)",NULL,1,"food component recall",NULL,NULL,NULL,NULL,NULL,NULL,1,0,0,0
+"food_consumption_b","Food Consumption","2001-2002","Questionnaire","DR1TMFAT","Total monounsaturated fatty acids (gm)",NULL,1,"food component recall",NULL,NULL,NULL,NULL,NULL,NULL,1,0,0,0
+"food_consumption_c","Food Consumption","2003-2004","Questionnaire","DR1TMOIS","Moisture (gm)",NULL,1,"food component recall",NULL,NULL,NULL,NULL,NULL,NULL,1,0,0,0
+"food_consumption_a","Food Consumption","1999-2000","Questionnaire","DR1TNIAC","Niacin (mg)",NULL,1,"food component recall",NULL,NULL,NULL,NULL,NULL,NULL,1,0,0,0
+"food_consumption_c","Food Consumption","2003-2004","Questionnaire","DR1TNUMF","Number of foods",NULL,0,"food component recall",NULL,NULL,NULL,NULL,NULL,NULL,1,0,0,0
+"food_consumption_c","Food Consumption","2003-2004","Questionnaire","DR1TP182","PFA 18:2 (Octadecadienoic) (gm)",NULL,1,"food component recall",NULL,NULL,NULL,NULL,NULL,NULL,1,0,0,0
+"food_consumption_c","Food Consumption","2003-2004","Questionnaire","DR1TP183","PFA 18:3 (Octadecatrienoic) (gm)",NULL,1,"food component recall",NULL,NULL,NULL,NULL,NULL,NULL,1,0,0,0
+"food_consumption_a","Food Consumption","1999-2000","Questionnaire","DR1TP184","PFA 18:4 (Octadecatetraenoic) (gm)",NULL,1,"food component recall",NULL,NULL,NULL,NULL,NULL,NULL,1,0,0,0
+"food_consumption_c","Food Consumption","2003-2004","Questionnaire","DR1TP204","PFA 20:4 (Eicosatetraenoic) (gm)",NULL,1,"food component recall",NULL,NULL,NULL,NULL,NULL,NULL,1,0,0,0
+"food_consumption_b","Food Consumption","2001-2002","Questionnaire","DR1TP205","PFA 20:5 (Eicosapentaenoic) (gm)",NULL,1,"food component recall",NULL,NULL,NULL,NULL,NULL,NULL,1,0,0,0
+"food_consumption_a","Food Consumption","1999-2000","Questionnaire","DR1TP225","PFA 22:5 (Docosapentaenoic) (gm)",NULL,1,"food component recall",NULL,NULL,NULL,NULL,NULL,NULL,1,0,0,0
+"food_consumption_b","Food Consumption","2001-2002","Questionnaire","DR1TP226","PFA 22:6 (Docosahexaenoic) (gm)",NULL,1,"food component recall",NULL,NULL,NULL,NULL,NULL,NULL,1,0,0,0
+"food_consumption_a","Food Consumption","1999-2000","Questionnaire","DR1TPFAT","Total polyunsaturated fatty acids (gm)",NULL,1,"food component recall",NULL,NULL,NULL,NULL,NULL,NULL,1,0,0,0
+"food_consumption_b","Food Consumption","2001-2002","Questionnaire","DR1TPHOS","Phosphorus (mg)",NULL,1,"food component recall",NULL,NULL,NULL,NULL,NULL,NULL,1,0,0,0
+"food_consumption_d","Food Consumption","2005-2006","Questionnaire","DR1TPOTA","Potassium (mg)",NULL,1,"food component recall",NULL,NULL,NULL,NULL,NULL,NULL,1,0,0,0
+"food_consumption_c","Food Consumption","2003-2004","Questionnaire","DR1TPROT","Protein (gm)",NULL,1,"food component recall",NULL,NULL,NULL,NULL,NULL,NULL,1,0,0,0
+"food_consumption_c","Food Consumption","2003-2004","Questionnaire","DR1TRET","Retinol (mcg)",NULL,1,"food component recall",NULL,NULL,NULL,NULL,NULL,NULL,1,0,0,0
+"food_consumption_c","Food Consumption","2003-2004","Questionnaire","DR1TS040","SFA 4:0 (Butanoic) (gm)",NULL,1,"food component recall",NULL,NULL,NULL,NULL,NULL,NULL,1,0,0,0
+"food_consumption_c","Food Consumption","2003-2004","Questionnaire","DR1TS060","SFA 6:0 (Hexanoic) (gm)",NULL,1,"food component recall",NULL,NULL,NULL,NULL,NULL,NULL,1,0,0,0
+"food_consumption_a","Food Consumption","1999-2000","Questionnaire","DR1TS080","SFA 8:0 (Octanoic) (gm)",NULL,1,"food component recall",NULL,NULL,NULL,NULL,NULL,NULL,1,0,0,0
+"food_consumption_d","Food Consumption","2005-2006","Questionnaire","DR1TS100","SFA 10:0 (Decanoic) (gm)",NULL,1,"food component recall",NULL,NULL,NULL,NULL,NULL,NULL,1,0,0,0
+"food_consumption_c","Food Consumption","2003-2004","Questionnaire","DR1TS120","SFA 12:0 (Dodecanoic) (gm)",NULL,1,"food component recall",NULL,NULL,NULL,NULL,NULL,NULL,1,0,0,0
+"food_consumption_d","Food Consumption","2005-2006","Questionnaire","DR1TS140","SFA 14:0 (Tetradecanoic) (gm)",NULL,1,"food component recall",NULL,NULL,NULL,NULL,NULL,NULL,1,0,0,0
+"food_consumption_a","Food Consumption","1999-2000","Questionnaire","DR1TS160","SFA 16:0 (Hexadecanoic) (gm)",NULL,1,"food component recall",NULL,NULL,NULL,NULL,NULL,NULL,1,0,0,0
+"food_consumption_d","Food Consumption","2005-2006","Questionnaire","DR1TS180","SFA 18:0 (Octadecanoic) (gm)",NULL,1,"food component recall",NULL,NULL,NULL,NULL,NULL,NULL,1,0,0,0
+"food_consumption_a","Food Consumption","1999-2000","Questionnaire","DR1TSELE","Selenium (mcg)",NULL,1,"food component recall",NULL,NULL,NULL,NULL,NULL,NULL,1,0,0,0
+"food_consumption_b","Food Consumption","2001-2002","Questionnaire","DR1TSFAT","Total saturated fatty acids (gm)",NULL,1,"food component recall",NULL,NULL,NULL,NULL,NULL,NULL,1,0,0,0
+"food_consumption_d","Food Consumption","2005-2006","Questionnaire","DR1TSODI","Sodium (mg)",NULL,1,"food component recall",NULL,NULL,NULL,NULL,NULL,NULL,1,0,0,0
+"food_consumption_b","Food Consumption","2001-2002","Questionnaire","DR1TSUGR","Total sugars (gm)",NULL,1,"food component recall",NULL,NULL,NULL,NULL,NULL,NULL,1,0,0,0
+"food_consumption_d","Food Consumption","2005-2006","Questionnaire","DR1TTFAT","Total fat (gm)",NULL,1,"food component recall",NULL,NULL,NULL,NULL,NULL,NULL,1,0,0,0
+"food_consumption_c","Food Consumption","2003-2004","Questionnaire","DR1TTHEO","Theobromine (mg)",NULL,1,"food component recall",NULL,NULL,NULL,NULL,NULL,NULL,1,0,0,0
+"food_consumption_a","Food Consumption","1999-2000","Questionnaire","DR1TVAIU","Vitamin A",NULL,1,"food component recall",NULL,NULL,NULL,NULL,NULL,NULL,1,0,0,0
+"food_consumption_c","Food Consumption","2003-2004","Questionnaire","DR1TVARA","Vitamin A, RAE (mcg)",NULL,1,"food component recall",NULL,NULL,NULL,NULL,NULL,NULL,1,0,0,0
+"food_consumption_a","Food Consumption","1999-2000","Questionnaire","DR1TVARE","Retinol",NULL,1,"food component recall",NULL,NULL,NULL,NULL,NULL,NULL,1,0,0,0
+"food_consumption_d","Food Consumption","2005-2006","Questionnaire","DR1TVB1","Thiamin (Vitamin B1) (mg)",NULL,1,"food component recall",NULL,NULL,NULL,NULL,NULL,NULL,1,0,0,0
+"food_consumption_c","Food Consumption","2003-2004","Questionnaire","DR1TVB12","Vitamin B12 (mcg)",NULL,1,"food component recall",NULL,NULL,NULL,NULL,NULL,NULL,1,0,0,0
+"food_consumption_a","Food Consumption","1999-2000","Questionnaire","DR1TVB2","Riboflavin (Vitamin B2) (mg)",NULL,1,"food component recall",NULL,NULL,NULL,NULL,NULL,NULL,1,0,0,0
+"food_consumption_a","Food Consumption","1999-2000","Questionnaire","DR1TVB6","Vitamin B6 (mg)",NULL,1,"food component recall",NULL,NULL,NULL,NULL,NULL,NULL,1,0,0,0
+"food_consumption_b","Food Consumption","2001-2002","Questionnaire","DR1TVC","Vitamin C (mg)",NULL,1,"food component recall",NULL,NULL,NULL,NULL,NULL,NULL,1,0,0,0
+"food_consumption_a","Food Consumption","1999-2000","Questionnaire","DR1TVE","Vitamin E",NULL,1,"food component recall",NULL,NULL,NULL,NULL,NULL,NULL,1,0,0,0
+"food_consumption_d","Food Consumption","2005-2006","Questionnaire","DR1TVK","Vitamin K (mcg)",NULL,1,"food component recall",NULL,NULL,NULL,NULL,NULL,NULL,1,0,0,0
+"food_consumption_a","Food Consumption","1999-2000","Questionnaire","DR1TWATE","Water",NULL,1,"food component recall",NULL,NULL,NULL,NULL,NULL,NULL,1,0,0,0
+"food_consumption_a","Food Consumption","1999-2000","Questionnaire","DR1TZINC","Zinc (mg)",NULL,1,"food component recall",NULL,NULL,NULL,NULL,NULL,NULL,1,0,0,0
+"food_consumption_c","Food Consumption","2003-2004","Questionnaire","DR1_320","Total plain water drank yesterday (gm)",NULL,1,"food component recall",NULL,NULL,NULL,NULL,NULL,NULL,1,0,0,0
+"food_consumption_c","Food Consumption","2003-2004","Questionnaire","DR1_330","Total tap water drank yesterday (gm)",NULL,1,"food component recall",NULL,NULL,NULL,NULL,NULL,NULL,1,0,0,0
+"food_consumption_d","Food Consumption","2005-2006","Questionnaire","DR1_330Z","Total tap water drank yesterday (gm)",NULL,1,"food component recall",NULL,NULL,NULL,NULL,NULL,NULL,1,0,0,0

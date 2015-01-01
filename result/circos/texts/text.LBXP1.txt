@@ -1,0 +1,5 @@
+volatile_compounds 13 14 Blood_Tetrachloroethene validated=0
+volatile_compounds 19 20 Blood_Chloroform validated=0
+volatile_compounds 21 22 Blood_Carbon_Tetrachloride validated=0
+volatile_compounds 24 25 Blood_1,2-Dichloropropane validated=0
+volatile_compounds 31 32 Blood_Trichloroethene validated=-1

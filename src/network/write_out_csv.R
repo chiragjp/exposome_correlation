@@ -1,0 +1,10 @@
+source('util.R')
+corrData_c <- (loadCorrFile())
+corrData_d <- (loadCorrFile('../../data/corrdata6/entire_spearman_2005-2006.Rdata'))
+corrData_b <- (cleanUpCorr(loadCorrFile('../../data/corrdata6/entire_spearman_2001-2002.Rdata')))
+corrData_a <- (cleanUpCorr(loadCorrFile('../../data/corrdata6/entire_spearman_1999-2000.Rdata')))
+
+write.csv(corrData_d, '../../data/corrdata6/entire_spearman_2005-2006.csv', row.names=F)
+write.csv(corrData_a, '../../data/corrdata6/entire_spearman_1999-2000.csv', row.names=F)
+write.csv(corrData_b, '../../data/corrdata6/entire_spearman_2001-2002.csv', row.names=F)
+write.csv(corrData_c, '../../data/corrdata6/entire_spearman_2003-2004.csv', row.names=F)
