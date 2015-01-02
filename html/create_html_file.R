@@ -104,7 +104,7 @@ for(ii in 1:length(categories)) {
 
 cat('<br><br>', file=fileout, append=T)
 cat('<h3>About the globes</h3>', file=fileout, append=T)
-cat('The exposure <a href=\"http://bit.ly/exposomeglobes\">correlation globes</a> above display the correlation between pairs of environmental exposures where at least one of the exposures is associated with a clinical phenotype. Globes are arranged in order of category of clinical phenotype (e.g., body measure parameters, cancer diagnostics, etc.).', file=fileout, append=T)
+cat('The <a href=\'http://en.wikipedia.org/wiki/Exposome\'>exposome</a> <a href=\"http://bit.ly/exposomeglobes\">correlation globes</a> above display the correlation between pairs of environmental exposures where at least one of the exposures is associated with a clinical phenotype. Globes are arranged in order of category of clinical phenotype (e.g., body measure parameters, cancer diagnostics, etc.).', file=fileout, append=T)
 cat('<br><br>', file=fileout, append=T)
 cat('Click on them for greater detail.', file=fileout, append=T)
 cat('<br><br>Brought to you by <a href=\'http://www.chiragjpgroup.org\'>chiragjpgroup.org</a>; globes created with <a href=\'http://circos.ca\'>Circos</a> software and code on <a href=\'https://github.com/chiragjp/exposome_correlation\'>GitHub</a>.</html>', file=fileout, append=T)
