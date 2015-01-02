@@ -68,7 +68,7 @@ pngDirectory <- file.path(RELPATH_TO_IMG, 'png')
 
 cat('<body>',file=fileout, append=T)
 cat('<div id=\"content\">',file=fileout, append=T)
-cat('<h2>Phenotype-Exposure Correlation Globe Browser</h2>',file=fileout, append=T)
+cat('<h2>Phenotype-Exposome Correlation Globe Browser</h2>',file=fileout, append=T)
 
 categories <- unique(phenoTable$clinical_category)
 
