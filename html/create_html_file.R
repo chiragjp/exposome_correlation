@@ -40,6 +40,19 @@ write_globe_html <- function(htmlfilepath, imgpath, name) {
 	cat(src, file=htmlfilepath)
 }
 
+google_analytics <- function() {
+	return("<script>
+	  (function(i,s,o,g,r,a,m){i[\'GoogleAnalyticsObject\']=r;i[r]=i[r]||function(){
+	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	  })(window,document,\'script\',\'//www.google-analytics.com/analytics.js\',\'ga\');
+
+	  ga(\'create\', \'UA-57022462-3\', \'auto\');
+	  ga(\'send\', \'pageview\');
+
+	</script>");
+}
+
 ####
 
 
@@ -48,6 +61,7 @@ cat(sprintf('<head><title>%s</title>', TITLE), file=fileout, append=T)
 
 cat('<link rel=\"stylesheet\" href=\"main.css\" />', file=fileout, append=T)
 cat('<link href=\'http://fonts.googleapis.com/css?family=Open+Sans\' rel=\'stylesheet\' type=\'text/css\'/>', file=fileout, append=T)
+cat(google_analytics(), file=fileout, append=T)
 cat('</head>', file=fileout, append=T)
 thumbDirectory <- file.path(RELPATH_TO_IMG, 'thumbnails')
 pngDirectory <- file.path(RELPATH_TO_IMG, 'png')
